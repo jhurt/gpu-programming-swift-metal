@@ -1,0 +1,16 @@
+# Xcode user-specific
+*.xcuserstate
+*.xcscmblueprint
+**/*.xccheckout
+
+# Per-user project data (includes breakpoints)
+**/*.xcodeproj/xcuserdata/
+**/*.xcworkspace/xcuserdata/
+
+# Derived data & build stuff (outside the project, but safe to ignore)
+DerivedData/
+build/
+
+.DS_Store
+
+.idea
